@@ -3,7 +3,7 @@
 
 <p>My interest in web development led me to pursue training at Le Wagon, where I proudly obtained my certification as a Full Stack web developer recently.</p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
