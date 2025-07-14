@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benoit</h1>
-<h3 align="center">I am a junior Web Developer from France</h3>
+<h3 align="center">I'm a junior Web Developer from France</h3>
 
-<p>My interest in web development led me to pursue training at Le Wagon, where I proudly obtained my certification as a Full Stack web developer recently.</p>
+<p>My interest in web development led me to pursue training at Le Wagon, where I recently earned my certification as a Full Stack Web Developer.</p>
 
-- 🌱 I’m currently learning **React.js** **Next.js**
+- 🌱 I’m currently learning **React.js** and **Next.js**
 - 🎨 I’m also enrolled in the **Google UX Design** Certificate program
 
 <h3 align="left">Connect with me:</h3>
