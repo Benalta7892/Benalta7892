@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats-ben.vercel.app/api/top-langs?username=benalta7892&show_icons=true&locale=en&layout=compact&bg_color=001F3F&text_color=CCCCCC" alt="benalta7892" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benalta7892&show_icons=true&locale=en&bg_color=001F3F&text_color=CCCCCC" alt="benalta7892" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ben.vercel.app/api?username=benalta7892&show_icons=true&locale=en&bg_color=001F3F&text_color=CCCCCC" alt="benalta7892" /></p>
