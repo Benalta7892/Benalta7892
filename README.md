@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React.js** and **Next.js**
 - 🎨 I’m also enrolled in the **Google UX Design** Certificate program
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benalta7892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benalta7892" height="30" width="40" /></a>
 </p>
