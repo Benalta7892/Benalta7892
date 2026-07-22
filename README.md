@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benoit</h1>
+<h1 align="center">Hi, I'm Benoit</h1>
 <h3 align="center">I'm a junior Web Developer from France</h3>
 
 <p>My interest in web development led me to pursue training at Le Wagon, where I recently earned my certification as a Full Stack Web Developer.</p>
