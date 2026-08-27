@@ -4,15 +4,15 @@
 
 ###
 
-<img data-importer="image" align="right" height="162" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXIzbHZzZTlxYzl2b2M2eG03eHZwYzBsYW4wa2Z2NnR3ajI5a3ZmdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4FGBpFc0IqeEGHPa/giphy.gif"  />
-
-###
-
 <h1 data-importer="text" align="left">Hi 👋 I'm Benoit</h1>
 
 ###
 
 <h2 data-importer="text" align="left">I'm a junior Web Developer from France</h2>
+
+###
+
+<img data-importer="image" align="right" height="162" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXIzbHZzZTlxYzl2b2M2eG03eHZwYzBsYW4wa2Z2NnR3ajI5a3ZmdyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4FGBpFc0IqeEGHPa/giphy.gif"  />
 
 ###
 
