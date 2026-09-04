@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">My interest in web development led me to pursue training at Le Wagon, where I recently earned my certification as a Full Stack Web Developer.<br><br>📚 I’m currently learning React.js and Next.js<br>🎨 I’m also enrolled in the Google UX Design Certificate program</p>
+<p data-importer="text" align="left">My interest in web development led me to pursue training at Le Wagon, where I earned my certification as a Full Stack Web Developer.<br><br>📚 I’m currently learning React.js and Next.js<br>🎨 I’m also enrolled in the Google UX Design Certificate program</p>
 
 ###
 
