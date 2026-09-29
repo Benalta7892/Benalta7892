@@ -8,7 +8,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I'm a junior Web Developer from France</h2>
+<h2 data-importer="text" align="left">I'm a Web Developer from France</h2>
 
 ###
 
